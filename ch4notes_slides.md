@@ -1,0 +1,401 @@
+# Soc 306 Chapter 4 Slides and Notes
+Sherri Verdugo  
+September 26, 2014  
+
+## Chapter 4 Learning Objectives
+
+After reading this chapter, you should be able to:
+
+1. Identify commonalities and differences in crime and criminal justice systems throughout the world and compare crime in the U.S. with crime in other countries.
+2.  Define crime and describe and compare three major sources of crime statistics: official statistics, victimization surveys, and self-report offender surveys. 
+3. Explain crime and violence from the structural functional perspective, including the functions of crime, the relation of crime to anomie, subcultural theories of crime, and how social bonds can prevent criminal behavior.
+4. Use the conflict perspective to explain how power and inequality are related to crime.
+5. Explain crime from the symbolic interactionist perspectives of labeling theory and differential association theory.
+6. Define and describe prevalence and trends in the following types of crime: street crime-violent offenses, street crime-property offenses, vice crime; organized crime; white-collar crime, including corporate violence; and computer crime.
+7. Distinguish between status and delinquent offenses of juveniles, identify the most common juvenile offenses, describe trends in juvenile crime, and explain the rise in gang-related crime.   
+8. Describe the economic, social, and psychological costs of crime. 
+9. Describe local initiatives of youth intervention and community programs to prevent crime.
+10. Explain the debate about whether the purpose of the criminal justice system should be rehabilitation or incapacitation and how societal fear of crime has affected government policies.
+11. Describe current international efforts to control crime, including Europol, Interpol, the United Nations Office of Drugs and Crime (UNODC), and the International Centre for the Prevention of Crime (ICPC). 
+12. Explain the concept of restorative justice.
+
+##  THE GLOBAL CONTEXT: INTERNATIONAL CRIME AND SOCIAL CONTROL
+
+### Similarities in international crime 
+
+* Crime is ubiquitous (there is no country without crime).
+*	Most countries have police, courts, and prisons.
+*	Adult males comprise the largest category of crime suspects.
+*	Theft is most common crime worldwide.
+*	Violent crime is relatively rare.
+
+###	Differences in international crime rates
+
+* Dramatic differences exist in international crime rates, although comparisons are made difficult by variations in measurement and crime definitions.
+
+### Global priority areas
+		
+*	Global priority areas: drugs and criminal organizations (e.g., drug trafficking); financial and high tech crimes (e.g., counterfeiting, fraud, and cyber-crime); tracing fugitives; countering terrorism; trafficking human beings; fighting corruption 
+*	Each priority area contains a relatively new category of crimes—transnational crime, defined as organized criminal activity across one or more national borders (e.g., Internet child pornography; human trafficking). 
+	
+####	Crime: is a violation of a federal, state, or local criminal law  
+
+##  SOURCES OF CRIME STATISTICS 
+
+### Official Statistics
+    
+*	FBI compiles reported crimes and arrests annually and publishes them in the Uniform Crime Reports (UCR), which lists:  
+*	Crime rates (number of crimes per 100,000 population)
+* Actual number of crimes
+* Percentage of change over time
+* Clearance rates: the percentage of cases in which an arrest and official charge have been made and turned over to the courts	
+
+### Problems with official statistics:
+
+*	Many crimes are not reported to police.
+*	Incorrect recordings.
+*	Motivations for distorting crime statistics come from the public, political officials, and organizational pressures (e.g., police may “crack down” on certain crimes in election year).
+
+### Victimization Surveys
+    
+*	The National Crime Victimization Survey, begun in 1973 and conducted annually by the U.S. Department of Justice, interviews over 135,000 people about their experiences as victims of crime.
+* Interviewers collect information on demographic characteristics of crime victims; relationship to offender; and extent to which victim was harmed.
+* Victimization surveys provide more information on victims than offenders. 
+    *	In 2011: 508 million violent crimes, 1547.1million property crimes    
+
+### Self-Report Offender Surveys
+
+* Ask offenders about their criminal behavior.
+* Sample may be known offenders or the general population.
+*	Self-report surveys reveal virtually every adult has engaged in some type of criminal behavior, but only a small proportion of the total population of law violators is ever convicted of a crime.
+* May still be subject to exaggeration and concealment. 
+
+##   SOCIOLOGICAL THEORIES OF CRIME 
+
+### 	Structural-Functionalist Perspective
+     	
+#### Crime is functional for society 
+
+1. Strengthens group cohesion: people develop solidarity when they come together to express outrage over a criminal violation.
+2. Catalyst for social change
+
+#### Strain theory (developed by Robert Merton) uses Durkheim’s concept of anomie.
+
+1. When legitimate means (e.g., a job) of acquiring culturally defined goals (e.g., money) are limited by the structure of society, the resulting strain may lead to crime.
+2. Individuals must adapt to the inconsistency between means and goals in a society that socializes everyone into wanting the same thing but provides opportunities for only some. 
+    *	Conformity occurs when individuals accept culturally defined goals and socially legitimate means of achieving them.
+		*	Innovation occurs when individuals accept societal goals but reject/lack socially legitimate means of achieving them; innovation is most associated with criminal behavior and explains crime among poor.
+		*	Ritualism occurs when individuals accept a lifestyle of hard work, but reject cultural goals of monetary rewards.
+		* Retreatism involves rejecting cultural goals of success and socially legitimate means of achieving it; the retreatist withdraws from society and may become an alcoholic, drug addict, or vagrant.
+		* Rebellion occurs when individuals reject culturally defined goals, and means substituting new goals and means.
+
+#### Subcultural theories:
+
+argue certain groups or subcultures have values conducive to crime.
+
+#### 	Control theory (by Hirschi):
+
+argues a strong social bond between individuals and society constrains some individuals from violating social norms. 
+
+Elements of the social bond: 
+
+*	Attachment to significant others
+*	Commitment to conventional goals
+*	Involvement in conventional activities
+*	Belief in the moral standards of society
+
+### Conflict Perspective
+       
+1. 	Deviance is inevitable whenever two groups have unequal power.
+2. 	Social inequality leads to crime as means of economic survival or expression of anger.
+3. 	Those in power define what is criminal; these definitions reflect the interests of the ruling class.
+4.	Law enforcement is applied differentially, penalizing those without power and benefiting those with power 
+5.	Societal beliefs reflect power inequalities (e.g., rape myths). 
+
+### Symbolic Interactionist Perspective
+      
+1. Labeling theory
+    a. Argues social groups create deviance by making defining certain actions as criminal or deviant; acts are not intrinsically deviant.
+    b. Analyze the consequences of being labeled criminal or deviant.
+					* 	Primary deviance: deviant behavior committed before a person is caught and labeled as an offender.
+				  *	Secondary deviance: deviance that results from being caught and labeled; deviant label can dominate social identity, which leads to further deviant behavior by denying opportunities for non-deviant behavior; individual may also internalize deviant label.
+2. 	Differential association theory (by Sutherland)
+    a.	Individuals learn criminal values techniques and motivations for criminal behavior through social interactions.
+    b.	Those exposed to more definitions favorable to law violation than unfavorable are more likely to engage in criminal behavior (e.g., children who see parents benefit from crime). 
+    c.	Media may also play a role; video games are of particular concern. 
+
+## TYPES OF CRIME
+
+###  The FBI identifies 8 index offenses as the most serious crimes in the U.S.
+	
+####	Street Crime: Violent Offenses
+		
+1. Prevalence and trends
+    a. The 2012 violent crime rate increased from the previous year.
+    b.	Homicide: the willful or non-negligent killing of one human being by another individual or group of individuals.
+        *	Least common violent crimes, accounting for 1.2% of all violent crime.
+        *	Mass murders have more than one victim in a killing event.
+        *	Serial murder occurs when the same offender has two or more victims in separate events. 
+2.	Aggravated assault: attacking a person with the intent to cause serious bodily injury
+    a.	Occurs most often between members of same race
+3. 	Rape
+    a. 	Most rapes are intraracial (victim and offender are the same race). 
+    b.	80% of all rapes are acquaintance rapes—committed by someone the victim knows.
+        *	Acquaintance rapes are least likely to be reported and hardest to prosecute.
+        *	Increased use of date rape drugs may lower reporting levels further.
+4.	Robbery
+    a.	Theft that involves force/threat of force and is thus considered a violent crime. 
+
+### Street Crime: Property Offenses
+     	
+1.	Property crimes are crimes in which someone’s property is damaged, destroyed, or stolen; they include larceny, motor vehicle theft, burglary, and arson.
+    a. 	Property crimes have decreased since 1998.
+2.	Larceny, or simple theft, accounts for more than two-thirds of all property offenses.  
+    a.	Examples include purse-snatching, bicycle theft, pick-pocketing, shoplifting, etc.
+3.	Motor vehicle theft is considered a separate index offense due to the cost involved. 
+4. 	Burglary: entering a structure (usually a house) with intent to commit a crime while inside
+		a.	Second most common index offense
+		b.	Most burglaries are residential rather than commercial and take place during the day when houses are unoccupied. 
+5. 	Arson: the malicious burning of the property of another.
+
+### Vice Crimes 
+     	
+1.	Are illegal activities that have no complaining party and therefore are often called victimless crimes?
+2.	Examples are using drugs, engaging in or soliciting prostitution, illegal gambling, and pornography. 
+    a.	Prostitution is illegal in the U.S. with the exception of several counties in Nevada. 
+        * 	Despite its illegal status, it is a multi-million dollar industry and thousands of women and children are trafficked into the U.S. for prostitution. 
+    b.	Many states have legalized gambling, including casinos in Nevada, New Jersey, Connecticut, North Carolina, and other states, as well as state lotteries, bingo parlors, horse and dog racing, and jai alai.
+        *	Some argue there is little difference between gambling and other risky ventures, such as investing in the stock market; conflict theorists’ note that the difference is in who is making the wager
+    c.	Pornography
+        *	Pornography regulation is difficult by fears of censorship and debate over what constitutes “obscenity.”  
+3. 	Organized crime: criminal activity conducted by members of a hierarchically arranged structure devoted primarily to making money through illegal means.
+    a.	Members of many ethnic groups engage in organized crime. 
+    b.	Organized crime also occurs in other countries. 
+    c.	Transnational crime organizations directly or indirectly involve more than one country.
+        *	Tend to be decentralized and less likely to operate through legitimate businesses.	
+        *	Constitute a growing threat to U.S. and global security. 
+        *	Involved in many types of transnational crime (e.g., money laundering, narcotics, arms smuggling, human trafficking, and terrorism).
+
+#### White Collar Crime
+     		
+1. 	Occupational crime: individuals commit crimes in the course of their employment (e.g., theft, 	embezzlement, forgery and counterfeiting, insurance fraud). 
+2. 	Corporate crime: corporations violate law to maximize profit; crimes benefit the organization (e.g., price-fixing, anti-trust violations, and security fraud).
+    a.	Many white-collar criminals go unpunished. 
+        *	Many companies dismiss parties involved rather than press charges to avoid 	negative publicity. 
+        *	Many white collar crimes go undetected (based on victim surveys, only 14% are reported).
+        *	Federal prosecutions of white-collar criminals have decreased recently due to time and resources needed to make prosecution and redistribution of FBI resources to terrorism after 9/11. 
+    b.	Corporate violence: the production of unsafe products and failure of corporations to provide safe working environment for employees.
+        * Result of negligence, pursuit of profit at any cost, and intentional violation of health, safety and environmental regulations. 
+
+#### Computer Crime (Cybercrime)
+	
+1.	Any law violation in which a computer is the target or means of criminal activity (e.g., hacking; identity theft – use of someone else’s identification to obtain credit; internet fraud; child sexual exploitation).
+2.	Computer crime is one of the fastest growing crimes in U.S. 
+3.  Three types of computer crimes are identity theft, child sexual exploitation and organizational cyber-attacks.
+
+#### 	Juvenile Delinquency
+
+1.	Children under 18 are handled by juvenile courts as status offenders or delinquent offenders.
+    a.	Status offense: violation that can only be committed by a juvenile (e.g., underage drinking, truancy, and running away from home).
+    b.	Delinquent offense: offense that would be a crime if committed by an adult.
+2.	Juveniles commit more property than violent crimes.
+3.	Gang-related crime 
+    a.	Is a function of 2 related social forces: increased availability of guns in the 1980s and the lucrative and expanding drug market?
+
+
+## DEMOGRAPHIC PATTERNS OF CRIME
+
+###   Gender and Crime
+
+1.	Women everywhere are less likely to commit crime than men.
+    a.	In 2011, males accounted for 73.8% of arrests, 80.1% of violent crime arrests, and 62.6% of property crime arrests.
+    b.	Female criminality has increased dramatically over the past decade. 
+2.	Feminist Criminology: focuses on how women’s subordinate position in society affects their criminality and victimization.
+    a.	Feminist criminology has impacted public policy (e.g., mandatory arrests for domestic violence, rape shield laws, etc.).   
+
+###	Age and Crime
+	
+1.	Criminal activity is more prevalent among younger than older people. 
+    a.	In 2012, 39.5% of all arrests in the U.S. were of people under age 25. 
+2.	Criminal activity is greater because: juveniles are insulated from many legal penalties for criminal behavior; and young people are more likely unemployed or earn low wages resulting in less access to legitimate means for acquiring goods. 
+3.	Conflict theorists argue young people have less social power than other groups and consequently are subject to greater police profiling and surveillance.  
+
+### 	Race, Social Class and Crime
+
+1.	Race impacts who gets arrested; minorities are disproportionately represented in official crime statistics. 
+2.	Official statistics reflect behaviors of criminal justice actors: high rate of arrests, convictions, and incarceration of minorities may result from bias against them.
+    a.	Racial profiling—the practice of targeting suspects based on race status—may be responsible for higher arrest rates.
+3.	Race and social class are closely related in that nonwhites are over-represented in the lower classes
+    a.	Lower-class members lack legitimate means to acquire goods and may resort to crime.
+    b.	Subcultural theorists argue that the “have-nots” more often live in communities where respect is based on physical strength and violence, which may promote crime.
+4.	Criminal justice system contact may act as the independent variable and lead to a lower position in the stratification system. 
+
+### 	Region and Crime
+
+1. 	Crime rates (particularly violent crime) are higher in metropolitan than nonmetropolitan areas.
+    a.	The 2012 violent crime rate in metropolitan areas was 409.4 per 100,000 population compared to 396 per 100,000 in non-metropolitan areas.
+    b.	Higher crime rates in urban areas result from:
+        *	People in urban areas are less likely to know each other and thus not influenced by the approval or disapproval of strangers.
+        *	Large cities have high concentrations of poor, unemployed, and minority individuals.
+2. 	Crime rates also vary by region of the country.
+    a.	In 2012, violent and property crime rates were highest in southern states
+		b.	Violent crime is particularly high in the South.
+	      *	The high rate of Southern lethal violence has been linked to high rates of poverty and minority populations; a southern “subculture of violence;” higher rates of gun ownership; and warmer climate that increases social interaction.
+
+### Crime and Victimization
+
+1.  There has been a 17% increase in violent crimes between 2010 and 2011.
+2.   Violent crime victims are typically young (18-24) and minority.  
+          
+##	 THE SOCIETAL COSTS OF CRIME AND SOCIAL CONTROL
+	
+###	Death and Physical Injury
+		
+1.	Homicide is the second most common cause of death among 15-25 year olds.
+2.	The U.S. Public Health Service defines violence as a top health concerns facing Americans.
+    a.	Health initiatives include reducing drug and alcohol use; reducing domestic violence, child abuse and neglect; and reducing violence through public health initiatives.   
+
+### 	Economic Costs 
+
+1. 	Direct losses from crime include destruction of buildings through arson, vandalism, environmental destruction by polluters.
+2. 	Costs associated with transferring of property, such as through bank robbery and embezzlement.
+3.	Criminal violence creates costs through medical cost of treating crime victims.
+4.	Illegal expenditures are costs associated with production and sale of illegal goods and services that divert funds away from the legitimate economy.
+5. 	Cost of prevention and protection includes money spent on locks and safes, surveillance cameras, guard dogs, etc.
+6. 	Cost of controlling crime includes law enforcement, judicial services and corrections.
+7.	The cost of white-collar crime is greater than the cost of FBI index crimes combined. 	
+
+### 	Social and Psychological Costs 
+		
+1.	Fear depends on individual perceptions of crime; despite continuing declines in crime rates, public perception is that crime has increased.
+    a.	Americans worry about crime at the individual level as well.
+    b.	Americans deal with fear through behavioral changes such as sense of shock, loss of trust, guilt, anger, and feelings of vulnerability. 
+		
+## STRATEGIES FOR ACTION: CRIME AND SOCIAL CONTROL
+
+###	Local Initiatives
+	
+1.	Youth programs focus on preventing crime rather than trying to ‘cure’ it.
+    a.	Many anticrime programs are directed to quality early childhood education afterschool programs and intervention for troubled youths.
+    b.	Many programs engage youth in noncriminal activities for community integration 
+2.	Community programs
+    a.	Neighborhood watch programs involve local residents in crime prevention (e.g., MAD DADS—Men Against Destruction Defending Against Drugs and Social Disorder— patrol streets, provide positive adult role models, organize gun buy-back, and more). 
+    b.	Mediation and victim-offender dispute resolution programs are increasing.
+
+###	Criminal Justice Policy
+
+1.	The criminal justice system is based on the principle of deterrence: the use of harm or threat of harm to prevent unwanted behaviors.
+    a.	Assumes people rationally choose to commit crime, weighing rewards and consequences.
+    b.	Recent “get tough” measures hold that maximizing punishment will increase deterrence and reduce crime rates.
+    c.	30 years of “get tough” policies have created other criminal justice problems and have not reduced recidivism—a return to criminal behavior by a former inmate, measured by re-arrest, re-conviction or re-incarceration.
+2.	Law enforcement Agencies
+    a.	In 2012, the U.S. had an estimated 3.4 law enforcement personnel for every 1000 inhabitants. 
+    b.	Accusations of racial profiling, brutality, and discrimination have made police-citizen cooperation difficult. 
+3. Rehabilitation versus incapacitation
+    a.	There is debate over whether the purpose of the criminal justice system is: rehabilitation—a philosophy that argues recidivism can be reduced by changing the criminal through programs such as substance abuse counseling, job training, etc.—or incapacitation—a philosophy that argues recidivism can be reduced by placing the offender in prison so that s/he is unable to commit further crimes.
+    b.	Societal fear of crime has led to emphasis on incapacitation and tougher punishment.
+        *	Research suggests incarceration may not deter crime, as tough measures are not applied equally.
+    c.	It is suggested that incarceration may increase criminal behaviors once released.
+        * Breeding hypothesis supports this perspective
+    d.   States can’t afford policies of decades ago 
+    e.   There are questions about increases in spending when crime is decreasing
+4.	Corrections
+    a.	The U.S. incarcerates more people than any other country in the world, and the rate of imprisonment has grown 700% between 1950 and 2005.
+5.	Capital punishment: the state (the federal government or a state) takes the life of a person as a punishment for a crime.
+    a.	33 states have the death penalty, most of which use lethal injection almost exclusively.
+        *	Some states have halted executions because of concerns over whether lethal injection violates the Eighth amendment’s protection against cruel and unusual punishment and the American Medical Association’s insistence that it is a violation of medical ethics for doctors to participate or be present at executions. 
+    b.	Arguments regarding capital punishment:
+        *	Proponents: Executions of convicted murders are necessary to convey public disapproval and intolerance for such heinous crimes. 
+				*	Opponents: No one, including the state, has the right to take another person’s life; life in prison is a “social death” that conveys necessary disapproval.
+			  *	Proponents: Capital punishment deters individuals from committing murder.
+				*	Opponents: Offenders don’t consider consequences when they act since most murders are unplanned; The U.S. has a much higher murder rate than Western European nations without capital punishment; death sentences are racially discriminatory (minorities who kill whites are more likely than others to be sentenced to death).
+				*	Proponents: Executing a convicted murderer relieves the taxpayers of the costs involved in housing, feeding, guarding, and providing medical care for inmates.
+				*	Opponents: Life and death issues should not be determined by finances; life in prison may cost less than the death penalty due to lengthy and costly appeal processes. 
+				*	Proponents: It protects society by preventing convicted individuals from committing another crime, including the murder of another inmate or prison official.
+				*	Opponents: Capital punishment results in innocent people being sentenced to death  
+
+###	Legislative Action
+
+1.	Gun control	          	
+    a.	Opponents of gun control argue citizens have a constitutional right to bear arms and more guns may lead to less crime as would-be offenders retreat in self-defense when confronted.
+    b.	Advocates of gun control argue that privately owned guns contribute to the violent crime rate in the U.S. and distinguish the country from other industrialized nations.
+    c.	Brady Bill
+				*	Passed in 1993, it requires 5-day waiting period on handgun purchases so sellers can screen buyers for criminal records or mental instability.
+				*	The law was amended in 1998 to include an instant check of buyers and their suitability for gun ownership.
+				*	Today the law requires background checks of those who purchase rifles and shotguns as well as handguns.
+
+###	International Efforts in the Fight against Crime
+
+1.	Europol is the European law enforcement organization that handles criminal intelligence.
+    a.	Europol provides support services for law enforcement in European Union countries (e.g., fast information exchange, intelligence analysis, etc.) and works with agencies against transnational crimes.    
+2.	Interpol (International Criminal Police Organization) is the world’s largest international police organization and provides support services for law enforcement agencies.
+    a.	Interpol operates a worldwide police communication network that provides police with a common platform to share information about criminals/criminality; provides extensive databases (e.g. DNA profiles, names and photographs) to ensure police get needed information; provides emergency support services and operational activities to law enforcement personnel; and provides police training and development.
+3.	The ICPC (International Centre for the Prevention of Crime) is a consortium of policy makers, academicians, police, government officials, and non-government agencies from around the world. 
+		a.	ICPC seeks to raise awareness of crime prevention knowledge; enhance 					community safety; facilitate the sharing of crime prevention information; and 				respond to calls for technical assistance. 
+ 
+##	UNDERSTANDING CRIME AND SOCIAL CONTROL
+
+1.	Support exists for both a functionalist and conflict approach to crime
+2.	Recent declines in crime should not be taken as support for “get tough” approaches as there are other, more valid, explanations.
+3.	Some advocate for increased prevention and restorative justice because of their effectiveness in reducing future crimes.
+
+## KEY CONCEPTS
+
+* Acquaintance Rape, pg. 108
+    * Rape committed by someone known to the victim.
+* Breeding Ground Hypothesis, pg. 128  
+    * A hypothesis that argues that incarceration serves to increase criminal behavior through the transmission of criminal skills, techniques, and motivations.
+* Capital Punishment, pg. 132  
+    * The state (the federal government or state) takes the life of a person as punishment for a crime.
+* Classic Rape, pg. 108		
+    * Rape committed by a stranger, with the use of a weapon, resulting in serious bodily injury to the victim.
+* Clearance Rate, pg. 102	
+    * The percentage of crimes in which an arrest and official charge have been made and the case has been turned over to the courts.
+* Computer Crime, pg. 113		
+    * Any violation of the law in which a computer is the target or means of criminal activity.
+* Corporate Violence, pg. 113	
+    * The production of unsafe products and the failure of corporations to provide a safe working environment for their employees.
+* Crime, pg. 101	
+    * An act, or the omission of an act, that is a violation of a federal, state, or local criminal law for which the state can apply sanctions.
+* Crime Rate, pg. 102		
+    * The number of crimes committed per 100,000 population.
+* Deterrence, pg. 126	
+    * The use of harm or the threat of harm to prevent unwanted behaviors.
+* Feminist Criminology, pg. 116
+    * An approach that focuses on how the subordinate position of women in society affects their criminal behavior and victimization.
+* Identity Theft, pg. 113
+    * The use of someone else's identification (e.g. Social Security Number, birthdate, or other personal information) to obtain credit or other economic rewards.
+* Incapacitation, pg. 128
+    * A criminal justice philosophy that argues that recidivism can be reduced by placing offenders in prison so that they are unable to commit further crimes against the general public.
+* Index Offenses, pg. 107
+    * Crimes identified by the FBI as the most serious, including personal or violent crimes (homicide, assault, rape, and robbery) and property crimes (larceny, motor vehicle theft, burglary, and arson).
+* INTERPOL, pg. 136
+    * The largest international police organization in the world.
+* Insider Trading, pg. 112
+    * The use of privileged (i.e., nonpublic) information by an employee of an organization that gives that employee an unfair advantage in buying, selling, and trading stocks or other securities.
+* Larceny, pg. 109
+    * Larceny is simple theft; it does not entail force or the use of force, or breaking and entering.
+* Organized Crime, pg. 111
+    * Criminal activity conducted by members of a hierarchically arranged structure devoted primarily to making money through illegal means.
+* Parole, pg. 129
+    * Parole entails release from prison, for a specific time period and subject to certain conditions, before the inmate's sentence is finished
+* Primary Deviance, pg. 106
+    * Deviant behavior committed before a person is caught and labeled an offender.
+* Probation, pg. 129
+    * The conditional release of an offender who, for a specific time period and subject to certain conditions, before the inmate's sentence is finished.
+* Racial Profiling, pg. 117
+    * The law enforcement practice of targeting suspects on the basis of race.
+* Recidivism, pg. 127
+    * A return to criminal behavior by a former inmate, most often measured by rearrest, reconviction, reincarceration.
+* Rehabilitation, pg. 128  
+    * A criminal justice philosophy that argues that recidivism can be reduced by changing the criminal through such programs as substance abuse counseling, job training, education, and so on.
+* Restorative Justice, pg. 132
+    * A philosophy primarily concerned with reconciling conflict between the victim, the offender, and the community.
+* Secondary Deviance, pg. 106
+    * Deviant behavior that results from being caught and labeled as an offender.
+* Transnational Crime, pg. 100
+    * Criminal activity that occurs across one or more national borders.
+* Victimless Crime, pg. 110
+    * Illegal activities that no complaining participant(s) and are often thought of as crimes against morality, such as prostitution.
+* White-Collar Crime, pg. 112
+    * Includes both occupational crime, in which individuals commit crimes in the course of their employment, and corporate crime in which corporations violate the law in the interest of maximizing profits.
